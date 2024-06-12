@@ -5,6 +5,7 @@ aioitertools @ file:///tmp/build/80754af9/aioitertools_1607109665762/work
 aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
 aiosqlite @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_13w97vul7u/croot/aiosqlite_1683773912122/work
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
+altair==5.3.0
 anaconda-anon-usage @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2c907yrj_5/croot/anaconda-anon-usage_1695305100095/work
 anaconda-catalogs @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_737qok84ed/croot/anaconda-catalogs_1685727302903/work
 anaconda-client @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_62r593g_27/croot/anaconda-client_1694625255058/work
@@ -37,11 +38,13 @@ beautifulsoup4 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T
 binaryornot @ file:///tmp/build/80754af9/binaryornot_1617751525010/work
 black @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1f1pcodmuo/croot/black_1680737253550/work
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
+blinker==1.8.2
 bokeh @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_258ryuohc7/croot/bokeh_1690546089457/work
 boltons @ file:///Users/ec2-user/ci_py311/boltons_1678396074811/work
 botocore @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b0m03dnl83/croot/botocore_1682530185285/work
 Bottleneck @ file:///Users/ec2-user/ci_py311/bottleneck_1678322312632/work
 brotlipy==0.7.0
+cachetools==5.3.3
 certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_3cotsv2wp9/croot/certifi_1700501675943/work/certifi
 cffi @ file:///Users/ec2-user/ci_py311/cffi_1678315312775/work
 chardet @ file:///Users/ec2-user/ci_py311/chardet_1678326102860/work
@@ -82,6 +85,7 @@ dill @ file:///Users/ec2-user/ci_py311/dill_1678323290904/work
 distributed @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_95i88jlqtp/croot/distributed_1686866052419/work
 docstring-to-markdown @ file:///Users/ec2-user/ci_py311/docstring-to-markdown_1678326320721/work
 docutils @ file:///Users/ec2-user/ci_py311/docutils_1678316143314/work
+duckdb==1.0.0
 entrypoints @ file:///Users/ec2-user/ci_py311/entrypoints_1678316169365/work
 et-xmlfile==1.1.0
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
@@ -94,6 +98,8 @@ frozenlist @ file:///Users/ec2-user/ci_py311/frozenlist_1678318685088/work
 fsspec @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_daw1qq7n6u/croot/fsspec_1682526931173/work
 future @ file:///Users/ec2-user/ci_py311_2/future_1679335881731/work
 gensim @ file:///Users/ec2-user/ci_py311/gensim_1678412014794/work
+gitdb==4.0.11
+GitPython==3.1.43
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 gmpy2 @ file:///Users/ec2-user/ci_py311/gmpy2_1678380831980/work
 greenlet @ file:///Users/ec2-user/ci_py311/greenlet_1678323340336/work
@@ -216,6 +222,7 @@ poyo @ file:///tmp/build/80754af9/poyo_1617751526755/work
 prometheus-client @ file:///Users/ec2-user/ci_py311_2/prometheus_client_1679340232148/work
 prompt-toolkit @ file:///Users/ec2-user/ci_py311/prompt-toolkit_1678317707969/work
 Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
+protobuf==4.25.3
 psutil @ file:///Users/ec2-user/ci_py311_2/psutil_1679337242143/work
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
@@ -229,6 +236,7 @@ pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pyct @ file:///Users/ec2-user/ci_py311/pyct_1678378955854/work
 pycurl @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_5fqjx6q8cq/croot/pycurl_1686662466370/work
 pydantic @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_35o4y5fj35/croot/pydantic_1686125728261/work
+pydeck==0.9.1
 PyDispatcher==2.0.5
 pydocstyle @ file:///Users/ec2-user/ci_py311/pydocstyle_1678378981125/work
 pyerfa @ file:///Users/ec2-user/ci_py311/pyerfa_1678379006730/work
@@ -276,6 +284,7 @@ requests-toolbelt @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000g
 responses @ file:///tmp/build/80754af9/responses_1619800270522/work
 rfc3339-validator @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_07a1ken4gz/croot/rfc3339-validator_1683077050666/work
 rfc3986-validator @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_6dzvsqx89i/croot/rfc3986-validator_1683059150431/work
+rich==13.7.1
 rope @ file:///Users/ec2-user/ci_py311/rope_1678379265159/work
 Rtree @ file:///Users/ec2-user/ci_py311/rtree_1678394103092/work
 ruamel-yaml-conda @ file:///Users/ec2-user/ci_py311/ruamel_yaml_1678394125333/work
@@ -292,6 +301,7 @@ service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629
 sip @ file:///Users/ec2-user/ci_py311/sip_1678318421743/work
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 smart-open @ file:///Users/ec2-user/ci_py311/smart_open_1678389689993/work
+smmap==5.0.1
 sniffio @ file:///Users/ec2-user/ci_py311/sniffio_1678317345022/work
 snowballstemmer @ file:///tmp/build/80754af9/snowballstemmer_1637937080595/work
 sortedcontainers @ file:///tmp/build/80754af9/sortedcontainers_1623949099177/work
@@ -308,6 +318,7 @@ spyder-kernels @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T
 SQLAlchemy @ file:///Users/ec2-user/ci_py311/sqlalchemy_1678379321154/work
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_6ceh3qgte0/croot/statsmodels_1689937269297/work
+streamlit==1.35.0
 sympy @ file:///Users/ec2-user/ci_py311_2/sympy_1679338337660/work
 tables @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_db4hksk56p/croot/pytables_1691621493468/work
 tabulate @ file:///Users/ec2-user/ci_py311/tabulate_1678423547338/work
